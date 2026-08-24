@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=f4f5f6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dipankar+Dubey+👋;Backend+Python+Web+Developer+💻;Django+RESTFull+Specialist+⚡;AI+Integration+Expert+🤖;Problem+Solver+%26+Mentor+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dipankar+Dubey+👋;Backend+Python+Web+Developer+💻;Django+RESTFull+Specialist+⚡;AI+Integration+Expert+🤖;Problem+Solver+%26+Mentor+🎯)](https://git.io/typing-svg)
 
 <br/>
 
