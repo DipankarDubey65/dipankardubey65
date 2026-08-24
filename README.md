@@ -97,9 +97,13 @@ const nitish = {
 <!-- Stats Card + Streak side by side -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DipankarDubey65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Dipankar's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DipankarDubey65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarDubey65&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Dipankar's Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipankarDubey65&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=DipankarDubey65&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
 </div>
 
