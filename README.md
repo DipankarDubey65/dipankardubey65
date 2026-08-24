@@ -14,28 +14,29 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```javascript
 const nitish = {
-  name:        "Nitish Sharma",
-  role:        "Full Stack Web Developer",
-  experience:  "2+ years",
-  stack:       ["MongoDB", "Express.js", "React.js", "Node.js"],
-  competitive: ["HackerRank", "Codeforces"],
+  name:        "Dipankar Dubey",
+  role:        "Backend Web Developer",
+  experience:  "1 years",
+  stack:       ["Django", "REST API", "FAST API", "LLD and HLD"],
+  competitive: ["LeetCode", "GeeksForGeeks"],
   passion:     "Building intelligent, scalable web products",
-  funFact:     "Curiosity is the best skill you can have 🚀"
+  funFact:     "Curiosity is the best skill you can have "
 };
 ```
 
 <br/>
 
-🔭 I'm currently leading **frontend development sprints** at **Adaan Digital Solutions**  
-🌱 Exploring deeper into **AI-powered web applications** & **real-time systems**  
-👨‍🏫 Mentored **50+ students** in web development through developer mentorship programs  
-⚔️ Competing on **HackerRank** & **Codeforces** to sharpen DSA skills  
-💡 Passionate about the intersection of **clean engineering** and **thoughtful UX**  
-📫 Always open to **collaborations** and exciting **freelance projects**
+🔭 Currently working as a **Python Backend Developer ** at **Start-Up**
+🌱 Developed a **Flower Delivery System** using **Django, Django REST Framework & React**
+⚙️ Building scalable and efficient **REST APIs** for real-world applications
+🗄️ Working with **MySQL & Django ORM** for database management and query optimization
+🧠 Strong foundation in **Python, OOPS, Data Structures & SQL, System Design**
+🚀 Passionate about building **clean, modular and scalable web applications**
+
 
 ---
 
