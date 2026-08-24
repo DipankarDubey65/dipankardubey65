@@ -118,35 +118,11 @@ const nitish = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dipankardubey65&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4&row=2" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity Graph
 
 <div align="center">
 
-[![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dipankardubey65&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipankardubey65/dipankardubey65/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipankardubey65/dipankardubey65/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/dipankardubey65/dipankardubey65/output/github-contribution-grid-snake.svg" />
-</picture>
+[![Dipankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dipankardubey65&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
