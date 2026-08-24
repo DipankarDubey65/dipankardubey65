@@ -95,9 +95,9 @@ const nitish = {
 <div align="center">
 
 <!-- Stats Card + Streak side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=nikku1229&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dipankardubey65&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&rank_icon=github" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikku1229&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF" height="180" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankardubey65&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF" height="180" alt="GitHub Streak"/>
 
 </div>
 
