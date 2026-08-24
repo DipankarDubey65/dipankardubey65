@@ -172,10 +172,11 @@ const nitish = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikku1229&repo=GeoConnect&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF)](https://github.com/nikku1229/GeoConnect)
-&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikku1229&repo=DareBuddy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF)](https://github.com/nikku1229/DareBuddy)
+<div align="center">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DipankarDubey65&repo=8-Week-Sql-Challenge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF)](https://github.com/DipankarDubey65/8-Week-Sql-Challenge)
+&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DipankarDubey65&repo=E-Shoper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF)](https://github.com/DipankarDubey65/E-Shoper)
 </div>
 
 <div align="center">
