@@ -7,8 +7,8 @@
 
 <!-- Profile Views + Followers Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=dipankardubey65&label=Profile+Views&color=6C63FF&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/nikku1229?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)
-![GitHub stars](https://img.shields.io/github/stars/nikku1229?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)
+![GitHub followers](https://img.shields.io/github/followers/dipankardubey65?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)
+![GitHub stars](https://img.shields.io/github/stars/dipankardubey65?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)
 
 </div>
 
