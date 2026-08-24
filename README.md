@@ -191,7 +191,7 @@ const nitish = {
 ## 🎯 Current Focus
 
 ```text
-💼 Leading Frontend Sprints    █████████░░░░░░   65%
+💼 Leading Backend Sprints    █████████░░░░░░   65%
 🤖 AI Integration Projects     ████░░░░░░░░░░░   40%
 📚 DSA & Competitive Coding    ██████░░░░░░░░░   45%
 🌍 Open Source Contributions   █░░░░░░░░░░░░░░   10%
@@ -203,9 +203,9 @@ const nitish = {
 ## 🏅 Achievements & Certifications
 
 - 🥇 **Hackathon Participant** — Competed in multiple national-level hackathons
-- 👨‍🏫 **Mentored 50+ Students** in Full Stack Web Development
-- ⭐ **HackerRank** — Problem Solving & JavaScript Certified
-- 🎯 **Codeforces** — Active competitive programmer
+- 👨‍🏫 **Mentored 50+ Students** in Backend Web Development
+- ⭐ **Love Babbar** — Problem Solving & C++ Certified
+- 🎯 **LeetCode** — Active competitive programmer
 
 ---
 
