@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=f4f5f6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Nitish+Sharma+👋;Full+Stack+Web+Developer+💻;MERN+Stack+Specialist+⚡;AI+Integration+Expert+🤖;Problem+Solver+%26+Mentor+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=f4f5f6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dipankar+Dubey+👋;Backend+Python+Web+Developer+💻;Django+RESTFull+Specialist+⚡;AI+Integration+Expert+🤖;Problem+Solver+%26+Mentor+🎯)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=nikku1229&label=Profile+Views&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=dipankardubey65&label=Profile+Views&color=6C63FF&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/nikku1229?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)
 ![GitHub stars](https://img.shields.io/github/stars/nikku1229?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)
 
