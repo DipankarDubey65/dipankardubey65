@@ -112,7 +112,7 @@ const nitish = {
 <div align="center">
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikku1229&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8" height="200" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankardubey65&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8" height="200" alt="Top Languages"/>
 
 </div>
 
@@ -122,7 +122,7 @@ const nitish = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikku1229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4&row=2" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dipankardubey65&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4&row=2" alt="GitHub Trophies"/>
 
 </div>
 
@@ -132,7 +132,7 @@ const nitish = {
 
 <div align="center">
 
-[![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikku1229&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dipankardubey65&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -143,9 +143,9 @@ const nitish = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikku1229/nikku1229/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikku1229/nikku1229/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nikku1229/nikku1229/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipankardubey65/dipankardubey65/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipankardubey65/dipankardubey65/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/dipankardubey65/dipankardubey65/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -156,13 +156,13 @@ const nitish = {
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikku1229&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipankardubey65&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <div align="center">
 
-[![](https://github-contributor-stats.vercel.app/api?username=nikku1229&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/HwangTaehyun/github-contributor-stats)
+[![](https://github-contributor-stats.vercel.app/api?username=dipankardubey65&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/HwangTaehyun/github-contributor-stats)
 
 </div>
 
