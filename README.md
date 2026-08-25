@@ -17,7 +17,7 @@
 ## About Me
 
 ```javascript
-const nitish = {
+const dipankar = {
   name:        "Dipankar Dubey",
   role:        "Backend Web Developer",
   experience:  "1 years",
